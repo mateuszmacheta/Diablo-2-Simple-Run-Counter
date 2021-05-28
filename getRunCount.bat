@@ -1,0 +1,1 @@
+powershell -executionpolicy Bypass -File .\getRunCount.ps1
